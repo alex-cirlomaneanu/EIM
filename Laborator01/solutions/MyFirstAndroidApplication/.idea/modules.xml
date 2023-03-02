@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyFirstAndroidApplication.iml" filepath="$PROJECT_DIR$/.idea/modules/MyFirstAndroidApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyFirstAndroidApplication.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyFirstAndroidApplication.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyFirstAndroidApplication.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyFirstAndroidApplication.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyFirstAndroidApplication.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyFirstAndroidApplication.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyFirstAndroidApplication.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyFirstAndroidApplication.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
